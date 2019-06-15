@@ -28,6 +28,8 @@
    :maxdepth: 2
    :caption: 学员心得体会
 
+   2-Stories/gaozhijun.rst
+
 
    
 
