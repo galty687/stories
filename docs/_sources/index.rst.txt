@@ -7,7 +7,7 @@
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 学员介绍:
 
    1-People/chenxian.md
