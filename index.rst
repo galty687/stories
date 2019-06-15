@@ -11,7 +11,7 @@
    :caption: 学员介绍:
 
    1-People/chenxian.md
-   1-People/chenxuan.md
+   1-People/Chenxuan.md
    1-People/chenyu.md
    1-People/chiqingna.md
    1-People/gaozhijun.md
@@ -29,6 +29,9 @@
    :caption: 学员心得体会
 
    2-Stories/gaozhijun.rst
+   2-Stories/chenyu.rst
+   2-Stories/xuejunyue.rst
+   2-Stories/zhaojing.rst
 
 
    
