@@ -35,6 +35,9 @@
    2-Stories/zhangshengrui.rst
    2-Stories/chenxian.rst
    2-Stories/xuejunyue.rst
+   2-Stories/LiDan.rst
+   2-Stories/Limei.rst
+   2-Stories/tangzhenhua.rst
 
 
    
