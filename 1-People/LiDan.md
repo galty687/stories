@@ -2,4 +2,5 @@
 
 Philips Technical Writer
 
-！[](images/lidan.png)
+
+![ ](images/lidan.png)
