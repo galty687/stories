@@ -1,6 +1,6 @@
 # 陈娴
 
-![ ](images/chenxian.JPG)
+![ ](images/chenxian.jpg)
 
 
 SSMR Document engineer
