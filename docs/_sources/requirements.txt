@@ -1,2 +1,2 @@
-Sphinx:
-    version=2.1.1
+sphinx:
+    version = 2.1.1
