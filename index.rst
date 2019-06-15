@@ -25,7 +25,7 @@
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 学员心得体会
 
    2-Stories/gaozhijun.rst
