@@ -20,6 +20,7 @@ Welcome to Sphinx Training Program
    1-People/tangzhenhua.md
    1-People/zhangshengrui.md
    1-People/zhaojing.md
+   1-People/xuejunyue.md
 
    
    
