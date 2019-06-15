@@ -32,6 +32,9 @@
    2-Stories/chenyu.rst
    2-Stories/xuejunyue.rst
    2-Stories/zhaojing.rst
+   2-Stories/zhangshengrui.rst
+   2-Stories/chenxian.rst
+   2-Stories/xuejunyue.rst
 
 
    
