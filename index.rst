@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sphinx Training Program
+文档代码化开发研修班学员心得体会
 =======================================
 
 .. toctree::
@@ -20,12 +20,15 @@ Welcome to Sphinx Training Program
    1-People/tangzhenhua.md
    1-People/zhangshengrui.md
    1-People/zhaojing.md
+   1-People/xuejunyue.md
 
    
    
 .. toctree::
    :maxdepth: 2
    :caption: 学员心得体会
+
+   2-Stories/gaozhijun.rst
 
 
    
