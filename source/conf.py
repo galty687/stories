@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx demo'
+project = '学员心得'
 copyright = '2019, Zhijun'
 author = 'Zhijun'
 
